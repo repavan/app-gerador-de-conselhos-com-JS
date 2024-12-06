@@ -1,7 +1,7 @@
 # Projeto "App Gerador de Conselhos" com JS
 Continuação do desafio do Frontend Mentor, anteriormente feito com HTML e CSS, e agora com a aplicação do JS para gerar conselhos aleatórios oriundos de uma API.
 
-<img src="./exercicio-gerador-de-conselhos/src/videos/app-gerador-de-conselhos.gif" alt="gif da tela inicial do projeto App Gerador de Conselhos">
+<img src="./src/videos/app-gerador-de-conselhos.gif" alt="gif da tela inicial do projeto App Gerador de Conselhos">
 
 ## Tecnologias utilizadas
 - HTML
